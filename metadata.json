@@ -1,0 +1,8 @@
+{
+  "name": "OmniVerse Creator",
+  "description": "A next-generation creative platform powered by Gemini AI. Create assets, chat with holographic avatars, and analyze media in a hyper-immersive environment.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
